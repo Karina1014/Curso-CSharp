@@ -3,5 +3,7 @@
     static void Main(string[] args)
     {
       variables(); 
+      DataTypes();
+      StringType();
     }
 }
