@@ -2,8 +2,11 @@
 {
     static void Main(string[] args)
     {
-      variables(); 
-      DataTypes();
-      StringType();
+      // variables(); 
+      // DataTypes();
+      // StringType();
+      // SalesReport();
+      // SalesReportTask();
+      ShowTimes();
     }
 }
