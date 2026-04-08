@@ -17,6 +17,7 @@
       //PrintFactorialTable(8);
       //Tuples();
       //AnonymousFunctions();
-      TestingClass();
+      //TestingClass();
+      Properties();
     }
 }
