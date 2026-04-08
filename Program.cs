@@ -7,6 +7,15 @@
       // StringType();
       // SalesReport();
       // SalesReportTask();
-      ShowTimes();
+      // ShowTimes();
+      //DaysOfLife();
+      // DaysUntilNextBirthday();
+      // TypeDifference();
+      // Functions();
+      //                      fijamos los parametrod
+      //PrintMultuplicationTable(5,12);
+      //PrintFactorialTable(8);
+      //Tuples();
+      AnonymousFunctions();
     }
 }
