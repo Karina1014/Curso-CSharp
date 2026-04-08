@@ -16,6 +16,7 @@
       //PrintMultuplicationTable(5,12);
       //PrintFactorialTable(8);
       //Tuples();
-      AnonymousFunctions();
+      //AnonymousFunctions();
+      TestingClass();
     }
 }

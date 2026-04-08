@@ -23,7 +23,6 @@ partial class Program
     static Func<int, int> lambdaSquare = x => x * x;
 }
 
-
 // //
 // 🔴 Forma normal (función clásica)
         // int Cuadrado(int x)
